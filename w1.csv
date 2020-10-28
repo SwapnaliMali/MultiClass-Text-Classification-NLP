@@ -1,0 +1,502 @@
+Words,Labels1
+disease,Health & Science
+obesity,Health & Science
+who,Health & Science
+medicine,Health & Science
+nutrition,Health & Science
+Well-being,Health & Science
+exercise,Health & Science
+welfare,Health & Science
+family,Health & Science
+hygine,Health & Science
+stress,Health & Science
+safety,Health & Science
+research,Health & Science
+role,Health & Science
+health care,Health & Science
+nursing,Health & Science
+illness,Health & Science
+diet,Health & Science
+hospitals,Health & Science
+education,Health & Science
+medicine,Health & Science
+hygine,Health & Science
+scientific,Health & Science
+forestry,Health & Science
+technology,Health & Science
+biology,Health & Science
+cells,Health & Science
+antibodies,Health & Science
+bacteria,Health & Science
+mitochondria,Health & Science
+physics,Health & Science
+chemistry,Health & Science
+zoology,Health & Science
+scientist,Health & Science
+chemical formula,Health & Science
+scientific name,Health & Science
+log table,Health & Science
+chronology,Health & Science
+magnetics,Health & Science
+dermatologist,Health & Science
+teaching,Education & Technology
+instruction,Education & Technology
+school,Education & Technology
+curriculum,Education & Technology
+learning,Education & Technology
+college,Education & Technology
+university,Education & Technology
+activity,Education & Technology
+mathematics,Education & Technology
+Value education,Education & Technology
+kindergarden,Education & Technology
+senior,Education & Technology
+secondary education,Education & Technology
+training,Education & Technology
+eclass,Education & Technology
+knowledge,Education & Technology
+books,Education & Technology
+scholarship,Education & Technology
+student,Education & Technology
+syllabus,Education & Technology
+computer,Education & Technology
+AI,Education & Technology
+Machine Learning,Education & Technology
+Deep Learning,Education & Technology
+abacus,Education & Technology
+statistics,Education & Technology
+plot,Education & Technology
+multimedia,Education & Technology
+autocad,Education & Technology
+automatic,Education & Technology
+alexa,Education & Technology
+siri,Education & Technology
+television,Education & Technology
+mobile,Education & Technology
+elon musk,Education & Technology
+spacex,Education & Technology
+Neural network,Education & Technology
+robotics,Education & Technology
+coding,Education & Technology
+examination,Education & Technology
+strategy,Games
+video games,Games
+tennis,Games
+cricket,Games
+basketball,Games
+volleyball,Games
+pinball,Games
+badminton,Games
+carromboard,Games
+compitition,Games
+bussinessgame,Games
+spellbee,Games
+chess,Games
+playing cards,Games
+football,Games
+dice,Games
+mind games,Games
+score,Games
+bat,Games
+ball,Games
+hockeystick,Games
+wicket,Games
+goal,Games
+goalkeeper,Games
+sachin tendulkar,Games
+saina nehwal,Games
+stumps,Games
+matchfixing,Games
+archery,Games
+boxing,Games
+skateboarding,Games
+squash,Games
+Kho-kho,Games
+polo,Games
+gymnastics,Games
+athletics,Games
+olympics,Games
+jumping,Games
+bungyjumping,Games
+watersports,Games
+community,Politics & Society
+role,Politics & Society
+civilization,Politics & Society
+antosocial,Politics & Society
+sector,Politics & Society
+culture,Politics & Society
+historical,Politics & Society
+haddapa,Politics & Society
+porch,Politics & Society
+tank,Politics & Society
+stairs,Politics & Society
+elivator,Politics & Society
+people,Politics & Society
+world,Politics & Society
+builder,Politics & Society
+chairman,Politics & Society
+tower,Politics & Society
+government,Politics & Society
+private,Politics & Society
+loan,Politics & Society
+state,Politics & Society
+diplomatic,Politics & Society
+law,Politics & Society
+political science,Politics & Society
+republic,Politics & Society
+election,Politics & Society
+state government,Politics & Society
+police,Politics & Society
+curphew,Politics & Society
+public,Politics & Society
+pole,Politics & Society
+vote,Politics & Society
+city,Politics & Society
+grampanchayat,Politics & Society
+zilla parishad,Politics & Society
+vidhansabha,Politics & Society
+loksabha,Politics & Society
+country,Politics & Society
+president,Politics & Society
+prime minister,Politics & Society
+jurisdiction,Business
+shareholder,Business
+public limited company,Business
+management,Business
+stock exchange,Business
+assetmanufacturing,Business
+product,Business
+company,Business
+listing,Business
+corporation,Business
+italians,Business
+investor,Business
+creditor,Business
+accountant,Business
+investment,Business
+liability,Business
+business name,Business
+limited company,Business
+insurance,Business
+tool,Business
+startup,Business
+entreprenuer,Business
+accounts,Business
+assets,Business
+expenses,Business
+revenue,Business
+equity,Business
+marketing,Business
+purchase,Business
+operations,Business
+usp,Business
+hr,Business
+recruitment,Business
+branding,Business
+stakeholders,Business
+leverage,Business
+feedback,Business
+prices,Business
+scalability,Business
+appraisal,Business
+corona,Health & Science
+patients,Health & Science
+doctors,Health & Science
+ward,Health & Science
+oxymeter,Health & Science
+carbon dioxide,Health & Science
+ozone,Health & Science
+depletion,Health & Science
+global warming,Health & Science
+pharmacist,Health & Science
+influenza,Health & Science
+paracetemol,Health & Science
+hydroxychloroquine,Health & Science
+quarantine,Health & Science
+tension,Health & Science
+quantum physics,Health & Science
+experiment,Health & Science
+motion,Health & Science
+neutron,Health & Science
+kinetic,Health & Science
+tution,Education & Technology
+coaching,Education & Technology
+guidance,Education & Technology
+literacy,Education & Technology
+apple,Education & Technology
+vivo,Education & Technology
+samsung,Education & Technology
+android,Education & Technology
+microsoft,Education & Technology
+amazon,Education & Technology
+facebook,Education & Technology
+netflix,Education & Technology
+google,Education & Technology
+ibm,Education & Technology
+infosys,Education & Technology
+year down,Education & Technology
+hp,Education & Technology
+hsbc,Education & Technology
+panasonic,Education & Technology
+oppo,Education & Technology
+crosswords,Games
+ludo,Games
+pubg,Games
+karate,Games
+softball,Games
+sketing,Games
+flying disc,Games
+kickboxing,Games
+rugby,Games
+fifa,Games
+world cup,Games
+sudoku,Games
+drifting,Games
+soccer,Games
+table tennis,Games
+curling,Games
+running,Games
+swimming,Games
+wrestling,Games
+horse racing,Games
+architecture,Politics & Society
+maintenance,Politics & Society
+porch,Politics & Society
+flat,Politics & Society
+arts,Politics & Society
+home,Politics & Society
+chief minister,Politics & Society
+parliment,Politics & Society
+arts,Politics & Society
+mandala art,Politics & Society
+stategovernment,Politics & Society
+india,Politics & Society
+maharashtra,Politics & Society
+karnataka,Politics & Society
+newspaper,Politics & Society
+headlines,Politics & Society
+celebration,Politics & Society
+muncipal corporation,Politics & Society
+district,Politics & Society
+home minister,Politics & Society
+construction,Business
+profit,Business
+loss,Business
+experience,Business
+salary,Business
+allowance,Business
+infrastructure,Business
+policy,Business
+terms & conditions,Business
+protocol,Business
+punctual,Business
+hiring,Business
+designation,Business
+development,Business
+design,Business
+deployment,Business
+meetings,Business
+conference,Business
+testing,Business
+technology,Business
+botony,Health & Science
+beaker,Health & Science
+cell,Health & Science
+fossil,Health & Science
+geology,Health & Science
+energy,Health & Science
+funnel,Health & Science
+electrochemistry,Health & Science
+fossil,Health & Science
+evolution,Health & Science
+magnet,Health & Science
+mass,Health & Science
+molecule,Health & Science
+motion,Health & Science
+organism,Health & Science
+molecule,Health & Science
+mineral,Health & Science
+petridish,Health & Science
+phase,Health & Science
+quantum,Health & Science
+telescope,Health & Science
+tissue,Health & Science
+test tube,Health & Science
+volume,Health & Science
+theory,Health & Science
+practical,Health & Science
+weather,Health & Science
+zoology,Health & Science
+weigh,Health & Science
+watch glass,Health & Science
+stomach,Health & Science
+throat,Health & Science
+skin,Health & Science
+sore,Health & Science
+cough,Health & Science
+cold,Health & Science
+vitamin,Health & Science
+iron,Health & Science
+fats,Health & Science
+protein,Health & Science
+cyber,Education & Technology
+security,Education & Technology
+hack,Education & Technology
+test,Education & Technology
+generation,Education & Technology
+high tech,Education & Technology
+nano,Education & Technology
+micro,Education & Technology
+tera,Education & Technology
+tetra,Education & Technology
+giga,Education & Technology
+bytes,Education & Technology
+bits,Education & Technology
+watch,Education & Technology
+otp,Education & Technology
+otg,Education & Technology
+rfid,Education & Technology
+nlp,Education & Technology
+nltk,Education & Technology
+library,Education & Technology
+cache,Education & Technology
+cookie,Education & Technology
+session,Education & Technology
+rtf,Education & Technology
+barcode,Education & Technology
+bios,Education & Technology
+ftp,Education & Technology
+torrent,Education & Technology
+encrypt,Education & Technology
+decrypt,Education & Technology
+gps,Education & Technology
+gif,Education & Technology
+binary,Education & Technology
+html,Education & Technology
+js,Education & Technology
+angular,Education & Technology
+react,Education & Technology
+vue,Education & Technology
+css,Education & Technology
+program,Education & Technology
+turnover,Business
+monthend,Business
+retail,Business
+wholesale,Business
+price,Business
+stock,Business
+target,Business
+sales,Business
+supply,Business
+report,Business
+budget,Business
+bill,Business
+deadline,Business
+cost,Business
+debt,Business
+delivery,Business
+enquiry,Business
+deficit,Business
+advice,Business
+agenda,Business
+confirm,Business
+estimate,Business
+goal,Business
+goods,Business
+growth,Business
+invoice,Business
+commision,Business
+credit,Business
+invest,Business
+limit,Business
+corporate,Business
+government,Business
+incentive,Business
+internship,Business
+headquater,Business
+penalty,Business
+trademark,Business
+strategy,Business
+equipment,Business
+branch,Business
+puzzle,Games
+video,Games
+warcraft,Games
+bungyjumping,Games
+monopoly,Games
+snooker,Games
+backgammon,Games
+bagatelle,Games
+checkers,Games
+counter,Games
+domino,Games
+draught,Games
+go,Games
+lotto,Games
+mahjong,Games
+meeple,Games
+move,Games
+piece,Games
+snake n ladder,Games
+square,Games
+boat,Games
+waves,Games
+climate,Games
+surfing,Games
+aqua,Games
+surfboard,Games
+windsurf,Games
+jetski,Games
+paddle,Games
+board,Games
+dive,Games
+backstroke,Games
+olympic,Games
+diver,Games
+lake,Games
+outdoor,Games
+course,Games
+scuba,Games
+swimshorts,Games
+poolwater,Games
+administration,Politics & Society
+localist,Politics & Society
+dictatorship,Politics & Society
+judge,Politics & Society
+court,Politics & Society
+advocate,Politics & Society
+economy,Politics & Society
+sector,Politics & Society
+civilization,Politics & Society
+citizenship,Politics & Society
+legislation,Politics & Society
+election,Politics & Society
+adharcard,Politics & Society
+truth,Politics & Society
+religion,Politics & Society
+certificate,Politics & Society
+mortal,Politics & Society
+birth,Politics & Society
+rate,Politics & Society
+cid,Politics & Society
+humanity,Politics & Society
+mankind,Politics & Society
+nation,Politics & Society
+population,Politics & Society
+federation,Politics & Society
+club,Politics & Society
+fellowship,Politics & Society
+lobby,Politics & Society
+clique,Politics & Society
+porch,Politics & Society
+ethics,Politics & Society
+fraud,Politics & Society
+fund,Politics & Society
+judicial,Politics & Society
+slogan,Politics & Society
+unity,Politics & Society
+reveal,Politics & Society
+pac,Politics & Society
+nepotism,Politics & Society
+liberty,Politics & Society
+gop,Politics & Society
